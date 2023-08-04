@@ -1,4 +1,6 @@
-package com.college.army;
+package com.college.army.impl;
+
+import com.college.army.ArmyRule;
 
 public class GeneralArmyRule implements ArmyRule {
 
