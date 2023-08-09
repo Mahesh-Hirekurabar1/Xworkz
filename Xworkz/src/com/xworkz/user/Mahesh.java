@@ -18,7 +18,7 @@ public class Mahesh {
 	
 	}
 	else {
-		System.out.println("Laptop is not displaying ");
+		System.err.println("Laptop is not displaying ");
 		}
 	}
 }
