@@ -6,7 +6,8 @@ public class Sachin {
 
 	private WaterPurifier purifier;
 
-	public void KentoPurify(WaterPurifier purifier) {
+
+	public Sachin(WaterPurifier purifier) {
 		this.purifier = purifier;
 	}
 

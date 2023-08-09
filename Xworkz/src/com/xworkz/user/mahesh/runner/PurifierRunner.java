@@ -11,8 +11,9 @@ public class PurifierRunner {
 
 		WaterPurifier purifier = new KentoPurify();
 
-		Sachin sachin = new Sachin();
+		Sachin sachin = new Sachin(purifier);
 		sachin.getPurify();
+		System.out.println("Invoking purify in Purifier Runner");
 
 	}
 
