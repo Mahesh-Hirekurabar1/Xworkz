@@ -15,7 +15,7 @@ public class RohitKidney {
 			this.kidney.clean();
 		}
 		else {
-			System.out.println("Kidney is clean, Can't be null");
+			System.err.println("Kidney is clean, Can't be null");
 		}
 	}
 	
