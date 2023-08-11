@@ -13,6 +13,7 @@ public class PoliticianRunner {
 		politician.pads("BRP");
 		politician.pads("Omkar");
 		politician.pads("BSY");
+		politician.display();
 		
 			
 		

@@ -13,6 +13,7 @@ public class HospitalRunner {
 		hospital.names("BLDE Hospital");
 		hospital.names("Kenya Hospital");
 		hospital.names("Sanjiv Hospital");
+		hospital.display();
 	}
 
 }

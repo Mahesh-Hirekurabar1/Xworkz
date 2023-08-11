@@ -14,6 +14,7 @@ public class OlympicRunner {
 		play.games("Kho-Kho");
 		play.games("Foot Ball");
 		play.games("Swmming");
+		play.display();
 
 	}
 

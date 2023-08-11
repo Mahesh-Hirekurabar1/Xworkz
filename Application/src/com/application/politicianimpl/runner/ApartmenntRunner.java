@@ -12,7 +12,7 @@ public class ApartmenntRunner {
 		apartment.start("Omkar Nivas");
 		apartment.start("Shree Nivas");
 		apartment.start("Ganesh Nivas");
-			
+		apartment.display();
 
 	}
 

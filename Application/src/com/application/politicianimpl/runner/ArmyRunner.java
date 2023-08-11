@@ -12,7 +12,7 @@ public class ArmyRunner {
 		army.caption("Daily workout");
 		army.caption("Maintain disciplane");
 		army.caption("Kill enemy and save country");
-
+		army.display();
 	}
 
 	
